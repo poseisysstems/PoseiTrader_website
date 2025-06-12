@@ -213,7 +213,7 @@
                             lineHeight: { md: "1.3", xs: "1.5" },
                             mb: "3rem",
                             children: [
-                              "NautilusTrader does not issue, promote, or endorse any cryptocurrency tokens. Any claims or communications suggesting otherwise are unauthorized and false.",
+                              "PoseiTrader does not issue, promote, or endorse any cryptocurrency tokens. Any claims or communications suggesting otherwise are unauthorized and false.",
                               (0, n.jsx)("br", {}),
                               (0, n.jsx)("br", {}),
                               "All official updates and communications from PoseiTrader will be shared exclusively through this website, our official",
