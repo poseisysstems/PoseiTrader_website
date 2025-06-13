@@ -1464,7 +1464,7 @@
                                 },
                                 children:
                                   0 === i
-                                    ? "install -U nautilus_trader"
+                                    ? "install -U posei_trader"
                                     : C[i].command,
                               }),
                               (0, n.jsx)(r.default, {
