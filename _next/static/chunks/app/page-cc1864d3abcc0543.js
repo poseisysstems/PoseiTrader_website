@@ -1306,7 +1306,7 @@
               c(!0),
               setTimeout(() => c(!1), 2e3);
           },
-          C = [{ tab: "Python", command: "pip install -U nautilus_trader" }];
+          C = [{ tab: "Python", command: "pip install -U posei_trader" }];
         return (0, n.jsx)(r.default, {
           sx: { backgroundColor: "#1b1b1d" },
           children: (0, n.jsx)(r.default, {
