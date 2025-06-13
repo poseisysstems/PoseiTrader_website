@@ -921,7 +921,7 @@
                               },
                               children: (0, n.jsx)(f.default, {
                                 priority: !0,
-                                src: "/nautilus-logo-white.png",
+                                src: "_next/image/poseitrader_logo.png",
                                 alt: "navbar-logo",
                                 width: 200,
                                 height: 35,
