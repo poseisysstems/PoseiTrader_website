@@ -993,7 +993,7 @@
                                   })
                                 : null,
                               (0, n.jsx)(p(), {
-                                href: "https://discord.com/invite/NautilusTrader",
+                                href: "https://discord.com/invite/PoseiTrader",
                                 target: "_blank",
                                 children: (0, n.jsxs)(a.default, {
                                   sx: {
