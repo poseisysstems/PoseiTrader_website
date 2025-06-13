@@ -121,7 +121,7 @@
                       padding: "10px 0px",
                       mb: "1rem",
                       children:
-                        "Launch your trading with NautilusTrader today.",
+                        "Launch your trading with PoseiTrader today.",
                     }),
                   }),
                   (0, n.jsx)(i.default, {
