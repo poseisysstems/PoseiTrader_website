@@ -237,7 +237,7 @@
                                   "Explore our comprehensive documentation to get started and discover the full capabilities of PoseiTrader. Our documentation covers everything from initial setup to advanced features, including detailed API references, ensuring you have all the information you need.",
                               }),
                               (0, n.jsx)(b, {
-                                link: "https://nautilustrader.io/docs",
+                                link: "https://poseitrader.com/docs",
                                 newTab: !0,
                                 children: "Explore Docs",
                               }),
