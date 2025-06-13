@@ -219,7 +219,7 @@
                               "All official updates and communications from PoseiTrader will be shared exclusively through this website, our official",
                               " ",
                               (0, n.jsx)(d(), {
-                                href: "https://discord.gg/NautilusTrader",
+                                href: "https://discord.gg/PoseiTrader",
                                 passHref: !0,
                                 style: { color: "#2be6e0" },
                                 target: "_blank",
