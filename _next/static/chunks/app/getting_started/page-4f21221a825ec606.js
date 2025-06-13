@@ -303,7 +303,7 @@
                                   mt: "0.9rem",
                                   children: [
                                     (0, n.jsx)(a(), {
-                                      href: "https://github.com/nautechsystems/nautilus_trader",
+                                      href: "https://github.com/poseisysstems/posei_trader",
                                       target: "_blank",
                                       children: (0, n.jsxs)(i.default, {
                                         sx: { display: "flex", gap: "5px" },
@@ -326,7 +326,7 @@
                                   mt: "0.9rem",
                                   children: [
                                     (0, n.jsx)(a(), {
-                                      href: "https://discord.gg/NautilusTrader",
+                                      href: "https://discord.gg/PoseiTrader",
                                       target: "_blank",
                                       children: (0, n.jsxs)(i.default, {
                                         sx: { display: "flex", gap: "5px" },
