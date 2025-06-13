@@ -356,7 +356,7 @@
                         items: [
                           {
                             text: "Open Source",
-                            link: "https://github.com/nautechsystems/nautilus_trader",
+                            link: "https://github.com/poseisysstems/posei_trader",
                             newTab: !0,
                             external: !0,
                           },
@@ -601,7 +601,7 @@
               items: [
                 {
                   text: "Open Source",
-                  link: "https://github.com/nautechsystems/nautilus_trader",
+                  link: "https://github.com/poseisysstems/posei_trader",
                   newTab: !0,
                   description: "Explore our open-core GitHub repository.",
                 },
