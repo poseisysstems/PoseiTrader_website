@@ -645,7 +645,7 @@
               items: [
                 {
                   text: "Docs",
-                  link: "https://poseitrader.com/docs",
+                  link: "https://nautilustrader.io//docs",
                   newTab: !0,
                   description: "Access PoseiTrader documentation.",
                 },
